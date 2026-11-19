@@ -1,0 +1,51 @@
+TicketID,CustomerID,ProductName,IssueCategory,Priority,TicketStatus,CreatedDate,ResolvedDate,AssignedAgent,ResolutionHours,SatisfactionRating,Channel
+TKT-0001,1,MicroStation,Licensing,High,Resolved,2025-01-05 09:30:00,2025-01-05 17:30:00,Ali,8,5,Email
+TKT-0002,2,OpenRoads Designer,Installation,Medium,Closed,2025-01-08 10:00:00,2025-01-09 14:00:00,Sara,28,4,Phone
+TKT-0003,3,STAAD,Technical Support,Low,Open,2025-01-12 11:15:00,,Ahmed,,3,Web
+TKT-0004,4,ProjectWise,Software Bug,Critical,Resolved,2025-01-15 08:00:00,2025-01-15 20:00:00,Hina,12,2,Email
+TKT-0005,5,Bentley OpenBuildings,Performance,High,In Progress,2025-01-18 13:45:00,,Bilal,,4,Phone
+TKT-0006,6,SYNCHRO,Billing,Medium,Closed,2025-01-20 09:00:00,2025-01-21 09:00:00,Usman,24,4,Web
+TKT-0007,7,MicroStation,Licensing,HIGH,Resolved,2025-01-22 10:30:00,2025-01-22 15:30:00,Ali,5,5,Email
+TKT-0008,8,OpenRoads Designer,Installation,Low,resolved,2025-01-25 11:00:00,2025-01-26 11:00:00,Sara,24,3,Phone
+TKT-0009,9,STAAD,technical support,High,Open,2025-01-28 14:00:00,,Ahmed,,4,Web
+TKT-0010,10,Micro Station,Software Bug,Medium,Resolved,2025-02-01 09:00:00,2025-02-01 18:00:00,Hina,9,4,Email
+TKT-0011,11,ProjectWise,Licensing,High,In Progress,2025-02-04 10:15:00,,Bilal,,5,Phone
+TKT-0012,12,Bentley OpenBuildings,Installation,Critical,Closed,2025-02-07 08:30:00,2025-02-09 08:30:00,Usman,48,2,Web
+TKT-0013,13,SYNCHRO,Performance,Medium,Resolved,2025-02-10 11:00:00,2025-02-10 19:00:00,Ali,8,5,Email
+TKT-0014,14,MicroStation,Billing,Low,Open,2025-02-13 13:00:00,,Sara,,3,Phone
+TKT-0015,15,STAAD,Licensing,High,Resolved,2025-02-16 09:45:00,2025-02-16 14:45:00,Ahmed,-4,4,Web
+TKT-0016,16,OpenRoads Designer,Installation,Medium,Closed,2025-02-19 10:00:00,2025-02-20 10:00:00,Hina,24,7,Email
+TKT-0017,17,ProjectWise,Software Bug,Critical,In Progress,2025-02-22 12:30:00,,Bilal,,4,Phone
+TKT-0018,18,Bentley OpenBuildings,Technical Support,High,Resolved,2025-02-25 08:00:00,2025-02-25 16:00:00,Usman,8,5,Web
+TKT-0019,19,SYNCHRO,Performance,Medium,Open,2025-02-28 14:15:00,,Ali,,3,Email
+TKT-0020,20,MicroStation,Licensing,Low,Closed,2025-03-03 09:00:00,2025-03-04 09:00:00,Sara,24,4,Phone
+TKT-0021,21,STAAD,Billing,High,Resolved,2025-03-06 10:30:00,2025-03-06 16:30:00,Ahmed,6,5,Web
+TKT-0022,22,ProjectWise,Installation,Medium,Open,2025-03-09 11:00:00,,Hina,,3,Email
+TKT-0023,23,OpenRoads Designer,Software Bug,Critical,Resolved,2025-03-12 08:30:00,2025-03-13 08:30:00,Bilal,24,4,Phone
+TKT-0024,24,Bentley OpenBuildings,Performance,High,Closed,2025-03-15 13:00:00,2025-03-15 21:00:00,Usman,8,5,Web
+TKT-0025,25,SYNCHRO,Technical Support,Low,In Progress,2025-03-18 09:15:00,,Ali,,4,Email
+TKT-0026,26,MicroStation,Licensing,Medium,Resolved,2025-03-21 10:00:00,2025-03-21 18:00:00,Sara,8,3,Phone
+TKT-0027,27,STAAD,Installation,High,Open,2025-03-24 12:00:00,,Ahmed,,4,Web
+TKT-0028,28,ProjectWise,Software Bug,Critical,Resolved,2025-03-27 08:00:00,2025-03-27 20:00:00,Hina,12,5,Email
+TKT-0029,29,OpenRoads Designer,Billing,Medium,Closed,2025-03-30 09:30:00,2025-03-31 09:30:00,Bilal,24,4,Phone
+TKT-0030,30,Bentley OpenBuildings,Performance,Low,Open,2025-04-02 11:00:00,,Usman,,3,Web
+TKT-0031,1,SYNCHRO,Technical Support,High,Resolved,2025-04-05 09:00:00,2025-04-05 17:00:00,Ali,8,5,Email
+TKT-0032,2,MicroStation,Licensing,Medium,Closed,2025-04-08 10:30:00,2025-04-09 10:30:00,Sara,24,4,Phone
+TKT-0033,3,STAAD,Installation,Low,In Progress,2025-04-11 12:00:00,,Ahmed,,3,Web
+TKT-0034,4,ProjectWise,Software Bug,Critical,Resolved,2025-04-14 08:45:00,2025-04-14 20:45:00,Hina,12,4,Email
+TKT-0035,5,Bentley OpenBuildings,Performance,High,Open,2025-04-17 10:00:00,,Bilal,,5,Phone
+TKT-0036,6,SYNCHRO,Billing,Medium,Closed,2025-04-20 09:00:00,2025-04-21 09:00:00,Usman,24,4,Web
+TKT-0037,7,MicroStation,Licensing,Low,Resolved,2025-04-23 11:15:00,2025-04-23 16:15:00,Ali,5,3,Email
+TKT-0038,8,OpenRoads Designer,Installation,High,In Progress,2025-04-26 13:00:00,,Sara,,4,Phone
+TKT-0039,9,STAAD,Software Bug,Critical,Resolved,2025-04-29 08:00:00,2025-04-29 20:00:00,Ahmed,12,5,Web
+TKT-0040,10,MicroStation,Billing,Medium,Open,2025-05-02 10:00:00,,Hina,,3,Email
+TKT-0041,11,ProjectWise,Technical Support,Low,Closed,2025-05-05 09:30:00,2025-05-06 09:30:00,Bilal,24,4,Phone
+TKT-0042,12,Bentley OpenBuildings,Licensing,High,Resolved,2025-05-08 11:00:00,2025-05-08 19:00:00,Usman,8,5,Web
+TKT-0043,13,SYNCHRO,Installation,Medium,In Progress,2025/05/18,,Ali,,4,Email
+TKT-0044,14,MicroStation,Software Bug,Critical,Resolved,2025-05-14 08:00:00,2025-05-14 20:00:00,Sara,12,4,Phone
+TKT-0045,15,STAAD,Performance,High,Open,2025-05-17 10:00:00,,Ahmed,,3,Web
+TKT-0046,16,ProjectWise,Billing,Low,Closed,2025-05-20 09:00:00,2025-05-21 09:00:00,Hina,24,4,Email
+TKT-0047,17,OpenRoads Designer,Technical Support,Medium,Resolved,2025-05-23 11:30:00,2025-05-23 19:30:00,Bilal,8,5,Phone
+TKT-0048,18,Bentley OpenBuildings,Installation,High,In Progress,2025-05-26 13:00:00,,Usman,,4,Web
+TKT-0049,19,SYNCHRO,Software Bug,Critical,Resolved,2025-05-29 08:00:00,2025-05-29 20:00:00,Ali,12,4,Email
+TKT-0050,20,MicroStation,Licensing,Medium,Closed,2025-06-01 09:00:00,2025-06-02 09:00:00,Sara,24,4,Phone
